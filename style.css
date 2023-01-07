@@ -1,0 +1,33 @@
+.copy_right_footer
+{
+    position:fixed;
+    bottom:10;
+    width:100%;
+    line-height: 3px;
+    color: crimson;    
+}
+
+img
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    width:35%;
+    height:40%;
+    padding: 10px;
+    border-color: black;
+    border-radius: 4px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+body 
+{
+    background-color: greenyellow;
+}
+
+.column
+{
+    display:inline;
+    padding: 10px;
+}
